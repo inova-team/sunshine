@@ -1,0 +1,780 @@
+2021-09-07T06:05:22+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:11:00+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:11:14+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:11:17+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:11:57+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:11:58+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:11:58+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:07+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:09+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:09+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:18+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:19+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:20+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:28+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:30+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:12:30+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:13:06+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:13:07+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:13:07+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:31:35+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:31:36+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:32:24+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:32:25+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:37:19+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:38:03+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:38:04+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:38:42+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:39:43+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:39:59+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:40:09+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:40:21+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:40:34+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:40:57+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:50:19+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:52:11+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:52:25+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:52:46+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T06:53:12+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:53:27+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:53:56+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:54:20+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:54:44+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:54:45+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:06+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:08+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:27+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:28+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:37+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:38+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:50+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:55:51+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:01+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:02+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:24+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:26+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:33+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:56:34+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:58:44+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T06:58:52+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:10:01+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:14:54+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:15:03+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:15:12+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:23:26+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:33:45+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T07:37:26+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T07:38:34+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:10:40+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:19:27+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:19:39+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:19:39+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:19:39+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(187): do_action('wp_ajax_auxels_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:24:29+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2916
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(273): auxin_get_cart_basket('', 0)
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2916
+
+2021-09-07T21:37:52+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T21:38:16+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T21:38:53+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T21:39:01+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
+2021-09-07T21:39:10+00:00 CRITICAL Uncaught TypeError: Cannot access offset of type string on string in C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php:2847
+Stack trace:
+#0 C:\xampp\htdocs\wp-content\plugins\auxin-elements\public\includes\frontend-ajax.php(268): auxin_get_cart_items('')
+#1 C:\xampp\htdocs\wp-includes\class-wp-hook.php(303): auxels_get_refreshed_fragments('')
+#2 C:\xampp\htdocs\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wp-admin\admin-ajax.php(202): do_action('wp_ajax_nopriv_...')
+#5 {main}
+  thrown en C:\xampp\htdocs\wp-content\themes\phlox-pro\auxin\auxin-include\include\functions.php en la línea 2847
+
